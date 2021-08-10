@@ -18,3 +18,4 @@ A full stack Rails application serving to simulate ticket sales for a music venu
 
 ### Contact Me
 
+<a href="https://www.linkedin.com/in/mac-rowe/" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
