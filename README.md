@@ -1,4 +1,4 @@
-## Hey, I'm Mac 
+## Hey, I'm Mac 🤠
 
 I'm an experienced Ruby on Rails and JavaScript based programmer with a background in digital video production. I maintain strong skills in interpersonal communication and a deft adaptability to assist progressively innovative teams produce unique and streamlined creative solutions. As an active songwriter/performer, I am currently in the process of releasing my third full-length Alternative Americana album as Dogs on Main Street.
 
